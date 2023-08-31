@@ -27,7 +27,7 @@ Step 5: Run the scraper code using
 
 >:memo: ***More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/).***
 
-The results will be stored into a HomesData.json.json in your project directory. Using the search_term as Texas homes in Homes.com, we get the sample data shown below.
+The results will be stored into a HomesData.json in your project directory. Using the **search_term as Texas homes in Homes.com**, we get the sample data shown below.
 
 
 ```json
